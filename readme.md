@@ -1,13 +1,17 @@
-<p> API response may not work because the databse connection with postgres sql (render) gets shutdown autometicaly after some days of creating the databse instance.</p>
+<p>for database connection you can use postgres sql from render.</p>
 
 <p> for documention use '/docs' route </p>
 
 <div>
 <p>env variables</p>
-
+<br>
 DATABSE_URI = 
+<br>
 SECRET_KEY = 
+<br>
 ALGORITHM = 
-ACCESS_TOKEN_EXPIRE_MINUTES = 
+<br>
+ACCESS_TOKEN_EXPIRE_MINUTES =
+<br> 
 
 </div>
